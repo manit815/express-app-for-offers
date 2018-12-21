@@ -96,9 +96,9 @@
             },
             {
                 "offerDescription": "Lewis jackets @50% *T&C apply",
-                "offerId": "gillys-01",
-                "merchantName": "Gillys",
-                "merchantId": "Gillys-ECity-01",
+                "offerId": "lewis-01",
+                "merchantName": "Lwis",
+                "merchantId": "Lewis-ECity-01",
                 "address": [
                     {
                         "lat": 12.7882939,
@@ -269,5 +269,185 @@
                 ]
             }
         ]
-    }
+    },
+    
+        {
+            "categoryId": "6",
+            "categoryName": "Address",
+            "details": [
+                {
+                    "lat": 12.7882939,
+                    "long": 77.6511074,
+                    "offerDetails": [
+                        {
+                            "offerDescription": "Above purchase of Rs.5000 get 10Kg Rice",
+                            "offerId": "dmart-01",
+                            "merchantName": "D-Mart",
+                            "merchantId": "DMart-ECity-01",
+                            "categoryId": "5",
+                            "categoryName": "General Stores"
+                        },
+                        {
+                            "offerDescription": "Fruits @10% off *T&C apply",
+                            "offerId": "village-01",
+                            "merchantName": "Village Hypermarket",
+                            "merchantId": "village-ECity-01",
+                            "categoryId": "5",
+                            "categoryName": "General Stores"
+                        },
+                        {
+                            "offerDescription": "Fridges @20% off, exchange offers *T&C apply",
+                            "offerId": "pai-01",
+                            "merchantName": "Pai",
+                            "merchantId": "Pai-ECity-01",
+                            "categoryId": "4",
+                            "categoryName": "Electronics"
+                        },
+                        {
+                            "offerDescription": "Attractive offers on mobiles *T&C apply",
+                            "offerId": "sangeetha-01",
+                            "merchantName": "Sangeetha Store",
+                            "merchantId": "Sangeetha-ECity-01",
+                            "categoryId": "4",
+                            "categoryName": "Electronics"
+                        },
+                        {
+                            "offerDescription": "1 year membership @1299 *T&C apply",
+                            "offerId": "cult-01",
+                            "merchantName": "Cult-Fit",
+                            "merchantId": "Cult-ECity-01",
+                            "categoryId": "3",
+                            "categoryName": "Fitness"
+                        },
+                        {
+                            "offerDescription": "Lewis jackets @50% *T&C apply",
+                            "offerId": "gillys-01",
+                            "merchantName": "Gillys",
+                            "merchantId": "Gillys-ECity-01",
+                            "categoryId": "2",
+                            "categoryName": "Clothing"
+                        },
+                        {
+                            "offerDescription": "Rice Bowls @99 *T&C apply",
+                            "offerId": "kfc-01",
+                            "merchantName": "KFC",
+                            "merchantId": "KFC-ECity-01",
+                            "categoryId": "1",
+                            "categoryName": "food"
+                        },
+                        {
+                            "offerDescription": "Burgers @99 *T&C apply",
+                            "offerId": "burgers-01",
+                            "merchantName": "Burgers",
+                            "merchantId": "Burgers-ECity-01",
+                            "categoryId": "1",
+                            "categoryName": "food"
+                        }
+                    ]
+                },
+                {
+                    "lat": 12.7882386,
+                    "long": 77.6511304,
+                    "offerDetails": [
+                        {
+                            "offerDescription": "Cheesy Pizza @279 *T&C apply",
+                            "offerId": "dominos-01",
+                            "merchantName": "Dominos",
+                            "merchantId": "Dominos-ECity-01",
+                            "categoryId": "1",
+                            "categoryName": "food"
+                        },
+                        {
+                            "offerDescription": "Pitchers @50% *T&C apply",
+                            "offerId": "gillys-01",
+                            "merchantName": "Gillys",
+                            "merchantId": "Gillys-ECity-01",
+                            "categoryId": "1",
+                            "categoryName": "food"
+                        },
+                        {
+                            "offerDescription": "Jeans @50% off *T&C apply",
+                            "offerId": "trends-01",
+                            "merchantName": "Trends",
+                            "merchantId": "Trends-ECity-01",
+                            "categoryId": "2",
+                            "categoryName": "Clothing"
+                        },
+                        {
+                            "offerDescription": "Unisex Sweatshirts @60% off *T&C apply",
+                            "offerId": "bf-01",
+                            "merchantName": "Brand Factory",
+                            "merchantId": "BF-ECity-01",
+                            "categoryId": "2",
+                            "categoryName": "Clothing"
+                        },
+                        {
+                            "offerDescription": "Man Utd Tees @999",
+                            "offerId": "adidas-01",
+                            "merchantName": "Adidas",
+                            "merchantId": "Adidas-ECity-01",
+                            "categoryId": "2",
+                            "categoryName": "Clothing"
+                        },
+                        {
+                            "offerDescription": "3 years subscription @30% off *T&C apply",
+                            "offerId": "snap-01",
+                            "merchantName": "Snap Fitness",
+                            "merchantId": "Snap-ECity-01",
+                            "categoryId": "3",
+                            "categoryName": "Fitness"
+                        },
+                        {
+                            "offerDescription": "Across programs @20% off *T&C apply",
+                            "offerId": "fit-01",
+                            "merchantName": "Right Fit",
+                            "merchantId": "right-ECity-01",
+                            "categoryId": "3",
+                            "categoryName": "Fitness"
+                        },
+                        {
+                            "offerDescription": "Loose 2 kg in 15 days or money returned *T&C apply",
+                            "offerId": "central-01",
+                            "merchantName": "Central Fit",
+                            "merchantId": "CF-ECity-01",
+                            "categoryId": "3",
+                            "categoryName": "Fitness"
+                        },
+                        {
+                            "offerDescription": "32 inch LED TV @ 10999 *T&C apply",
+                            "offerId": "adishwar-01",
+                            "merchantName": "Adishwar",
+                            "merchantId": "Adishwar-ECity-01",
+                            "categoryId": "4",
+                            "categoryName": "Electronics"
+                        },
+                        {
+                            "offerDescription": "Attractive exchange offers",
+                            "offerId": "croma-01",
+                            "merchantName": "Croma",
+                            "merchantId": "Croma-ECity-01",
+                            "categoryId": "4",
+                            "categoryName": "Electronics"
+                        },
+                        {
+                            "offerDescription": "Get 1Kg sugar above purchase of Rs.1000 *T&C apply",
+                            "offerId": "fp-01",
+                            "merchantName": "Four Points",
+                            "merchantId": "FP-ECity-01",
+                            "categoryId": "5",
+                            "categoryName": "General Stores"
+                        },
+                        {
+                            "offerDescription": "10% off across hygiene based products *T&C apply",
+                            "offerId": "-01",
+                            "merchantName": "New Store",
+                            "merchantId": "new-ECity-01",
+                            "categoryId": "5",
+                            "categoryName": "General Stores"
+                        }
+                    ]
+                }
+            ]
+        }
+    
 ]
